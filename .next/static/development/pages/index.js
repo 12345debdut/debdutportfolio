@@ -55383,7 +55383,7 @@ var auth0Client = new Auth0();
 
 /***/ }),
 
-/***/ 10:
+/***/ 19:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
@@ -55452,5 +55452,5 @@ module.exports = dll_b2d9fd95b535cd8bf589;
 
 /***/ })
 
-},[[10,"static/runtime/webpack.js"]]]));;
+},[[19,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=index.js.map

@@ -421,18 +421,6 @@
   font-weight: bold;
   font-style: normal; }
 
-@font-face {
-  font-family: 'Montserrat';
-  src: url("/static/fonts/Montserrat-Light.ttf");
-  font-weight: lighter;
-  font-style: normal; }
-
-@font-face {
-  font-family: 'Montserrat';
-  src: url("/static/fonts/Montserrat-Italic.ttf");
-  font-weight: normal;
-  font-style: italic; }
-
 html, body {
   height: 100%;
   width: 100%;
