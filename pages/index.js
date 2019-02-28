@@ -35,9 +35,6 @@ export default class Index extends React.Component{
 			className={`${isFlipping?'cover-1':'cover-0'}`} 
 			{...this.props.auth} headerType="index" title="Debdut saha-Portfolio">
 			<div className="main-section">
-			  <div className="background-image">
-				<img src="static/images/background-index.png" />
-			  </div>
 			  <Container>
 				<Row>
 				  <Col md="6">

@@ -1,106 +1,37 @@
 {
-  "devFiles": [],
+  "devFiles": [
+    "static/development/dll/dll_43a044928b2ed320053d.js"
+  ],
   "pages": {
     "/_app": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/css/styles.daefaae0.chunk.css",
-      "static/chunks/styles.4581b71a905d25457672.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/about": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/blogDetail": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/blogEditor": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/blogEditorUpdate": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/blogs": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/callback": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/cv": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/index": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/owner": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/portfolio": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/portfolioEdit": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/css/styles.daefaae0.chunk.css",
-      "static/chunks/styles.4581b71a905d25457672.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/portfolioNew": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/css/styles.daefaae0.chunk.css",
-      "static/chunks/styles.4581b71a905d25457672.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/portfolios": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/portfolios2": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/secret": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
-    ],
-    "/userBlogs": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
+      "static/runtime/webpack.js",
+      "static/css/styles.chunk.css",
+      "static/chunks/styles.js",
+      "static/runtime/main.js"
     ],
     "/_error": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/index": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/blogs": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/callback": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/about": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/": [
-      "static/runtime/webpack-89179faa512dd01fbb62.js",
-      "static/chunks/commons.f362f635b117750266f3.js",
-      "static/runtime/main-cb4b734d4dd3a5997753.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }

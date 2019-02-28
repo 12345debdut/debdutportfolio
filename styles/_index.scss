@@ -11,8 +11,8 @@ html, body {
   }
   
   .wrapper {
-    min-height: 100vh;
-    min-width: 100vw;
+    height: auto;
+    width: auto;
     margin-top: 0;
     position: relative;
   }
@@ -95,9 +95,9 @@ html, body {
   }
   
   .background-image {
-    position: absolute;
-    width: 1762px;
-    height: 493px;
+    position: relative;
+    width: auto;
+    height: auto;
   }
   
   .shadow-custom {

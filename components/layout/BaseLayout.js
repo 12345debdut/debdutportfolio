@@ -17,6 +17,7 @@ export default class BaseLayout extends React.Component{
 			<meta property="og:locale" content="hi_in"/>
 			<meta property="og:url" content={`${process.env.BASE_URL}`}/>
 			<meta property="og:description" content="Welcome to the portfolio website of Debdut Saha."/>
+			<meta name="viewport" content="width=device-width, initial-scale=1"></meta>
 			{cannonical && <link rel="cannonical" href={`${process.env.BASE_URL}/${cannonical}`}></link>}
 			<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"></link>
 			<link rel="icon" type="image/ico" href="/static/favicon.ico"></link>
