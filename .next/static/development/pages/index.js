@@ -93,6 +93,9 @@ function (_React$Component) {
         rel: "icon",
         type: "image/ico",
         href: "/static/favicon.ico"
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
+        name: "theme-color",
+        content: headerType == "index" ? "#096fb9" : "#27444e"
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
         href: "https://fonts.googleapis.com/icon?family=Material+Icons",
         rel: "stylesheet"

@@ -21,6 +21,7 @@ export default class BaseLayout extends React.Component{
 			{cannonical && <link rel="cannonical" href={`${process.env.BASE_URL}/${cannonical}`}></link>}
 			<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"></link>
 			<link rel="icon" type="image/ico" href="/static/favicon.ico"></link>
+			<meta name="theme-color" content={(headerType=="index")?"#096fb9":"#27444e"}/>
 			<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"></link>
 			</Head>
 			<div className="layout-container">

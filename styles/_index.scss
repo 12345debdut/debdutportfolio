@@ -11,10 +11,19 @@ html, body {
   }
   
   .wrapper {
-    height: auto;
+    height: 100vh;
     width: auto;
     margin-top: 0;
     position: relative;
+  }
+  @media all and (min-width:300px) and (max-width: 700px) {
+    /* put your css styles in here */
+    .wrapper{
+      height: auto;
+      width: auto;
+      margin-top: 0;
+      position: relative
+    }
   }
   
   .main-section {
@@ -50,7 +59,7 @@ html, body {
   
   .image {
     width: auto;
-    max-width: 100%;
+    width: 100%;
   }
   
   .hero-welcome-text > h1 {
