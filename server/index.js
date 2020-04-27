@@ -70,7 +70,7 @@ app.prepare()
   server.get('*', (req, res) => {
     return handle(req, res)
   })
-  const PORT=process.env.PORT||3000
+  const PORT=process.env.PORT||80
  // ERROR HANDLING IN AUTHORISATION
   server.use(function (err, req, res, next) {
     if (err.name === 'UnauthorizedError') {
